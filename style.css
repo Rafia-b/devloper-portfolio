@@ -10,6 +10,7 @@ color: #ae00ff;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
 width: 50%;
@@ -30,4 +31,12 @@ padding: 2%;
     background-repeat: no-repeat;
 }
 
-    
+.fifty-percent img{
+    width:50% 
+}
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
